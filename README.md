@@ -19,7 +19,7 @@ je veux crée un tableur exel , qui a pour objectif de calculer plus facilement 
 télécharge le fichier et ouvre le tout simplement.
 
 
-```bash
+```
   il ne te reste plus qu'à le configurer selon tes besoin
 ```
     
